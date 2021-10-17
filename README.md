@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: skatjrdndqo@naver.com
+- 💻 My Blog : https://leekm0912.tistory.com
 
 <!--
 **Leekm0912/Leekm0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
