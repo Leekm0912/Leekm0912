@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: skatjrdndqo@naver.com
+- 📫 How to reach me: leekm0912@kakao.com
 - 💻 My Blog : https://leekm0912.tistory.com
 
 <!--
