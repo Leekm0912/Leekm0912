@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: leekm0912@kakao.com
-- 💻 My Blog : https://leekm0912.tistory.com
+- 💬 My Blog : https://leekm0912.tistory.com
+- 💻 My Portfolio : https://programmers.co.kr/pr/leekm0912
 
 <!--
 **Leekm0912/Leekm0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
